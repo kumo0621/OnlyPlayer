@@ -1,0 +1,7 @@
+name: OnlyPlayer
+version: '${project.version}'
+main: com.kumo0621.github.onlyplayer.OnlyPlayer
+api-version: '1.20'
+commands:
+  setplayer:
+    permission: op
